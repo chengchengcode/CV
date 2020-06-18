@@ -1,6 +1,5 @@
 
 # Cheng Cheng
-Astronomer, Assistant professor
 
 <div id="webaddress">
 <a href="chengcheng@nao.cas.cn">chengcheng@nao.cas.cn</a>
