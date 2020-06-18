@@ -7,7 +7,7 @@ Astronomer, Assistant professor
 
 <a href="chengcheng@nao.cas.cn">chengcheng@nao.cas.cn</a>
 
-> ## Currently
+## Currently
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
@@ -28,7 +28,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 ## Education
 
 `2018---present` 
-Assistant professor
+**Assistant professor**
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
