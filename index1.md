@@ -1,7 +1,6 @@
----
-layout: cv
-title: Cheng Cheng's CV
----
+
+# title: Cheng Cheng's CV
+
 # Cheng Cheng
 Astronomer, Assistant professor
 
