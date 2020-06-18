@@ -25,7 +25,6 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 - Star formation efficiency
 - Multi-wavelength photometry
 - [NII] in high-z galaxies
-- Extra-galactic neutral hydrogen emission
 
 ## Education
 
