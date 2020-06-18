@@ -27,35 +27,29 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 ## Education
 
-`2018---present` Assistant professor
+`2018---present` 
+Assistant professor
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
-`2016---2018` Postdoctoral Researcher
+`2016---2018` 
+Postdoctoral Researcher
 
-Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Valpara\'iso, Chile
+Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Valpara\'iso, Chile. Supervisor: Edo Ibar
 
-Supervisor: Edo Ibar
+`2013---2017` 
+Postdoctoral Researcher
 
-`2013---2017` Postdoctoral Researcher
-
-National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China
-
-Supervisor: Jiasheng Huang
+National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China. Supervisor: Jiasheng Huang
  
 `2008---2013` Ph.D in Astrophysics
 
-Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China. Thesis: *Clumpy accretion onto black holes* Supervisor: Jian-Min Wang
 
-Thesis: *Clumpy accretion onto black holes*
+`2004---2008` 
+Bachelor degree in Theoretical physics
 
-Supervisor: Jian-Min Wang
-
-`2004---2008` Bachelor degree in Theoretical physics
-
-University of Science and Technology of China, Hefei, China
-
-Supervisor: Ye-Fei Yuan
+University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei Yuan
 
 
 ## Awards
