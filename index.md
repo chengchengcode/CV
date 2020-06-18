@@ -1,6 +1,4 @@
 
-# title: Cheng Cheng's CV
-
 # Cheng Cheng
 Astronomer, Assistant professor
 
