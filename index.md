@@ -75,53 +75,53 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Observational proposals as PI:
 
-2019B, JCMT, 16hours, SCUBA2 Imaging of the Spitzer IRAC Dark Field
+- LOT2020A, 2 nights, Lulin One meter Telescope. Halpha and Hbeta narrow bands observation of the UV and FIR resolved local galaxies
 
-LOT2020A, 2 nights, Lulin One meter Telescope. Halpha and Hbeta narrow bands observation of the UV and FIR resolved local galaxies
+- TAP2020A, 0.5 night, Hale telescope/CWI. Using P200/CWI to probe the origin of the double CO core in an ALMA galaxy at redshift 0.15
 
-TAP2020A, 0.5 night, Hale telescope/CWI. Using P200/CWI to probe the origin of the double CO core in an ALMA galaxy at redshift 0.15
+- 2019B, JCMT, 16hours, SCUBA2 Imaging of the Spitzer IRAC Dark Field
 
-Share-risk proposal in Commissioning Phase, 10 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
+- Share-risk proposal in Commissioning Phase, 10 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
 
-TAP2019A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
+- TAP2019A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
 
-SMA2019A, 10.5 hours, SMA/compact. Exploring molecular gas content in low mass galaxies
+- SMA2019A, 10.5 hours, SMA/compact. Exploring molecular gas content in low mass galaxies
 
-TAP2018B, 2 nights, Hale telescope/DBSP. Investigating local faint star forming galaxies: the bulge formation, stellar population and metallicity
+- TAP2018B, 2 nights, Hale telescope/DBSP. Investigating local faint star forming galaxies: the bulge formation, stellar population and metallicity
 
-2018A, 2 nights, Magellan / Baade /IMACS. Gas diagnostics in star-forming galaxies: understanding the star-formation process of Herschel galaxies in the main sequence
+- 2018A, 2 nights, Magellan / Baade /IMACS. Gas diagnostics in star-forming galaxies: understanding the star-formation process of Herschel galaxies in the main sequence
 
-TAP2018A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
+- TAP2018A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
 
-2018A, 7 hours, Gemini/GMOS-IFU. Investigating local faint star forming galaxies: the bulge formation, star formation quenching and metallicity
+- 2018A, 7 hours, Gemini/GMOS-IFU. Investigating local faint star forming galaxies: the bulge formation, star formation quenching and metallicity
 
-ALMA cycle-5, 8.5 hours, band-5, Revealing the missing link between normal and starburst galaxies at z~0.15 -- a follow-up to SEPIA detected galaxies
+- ALMA cycle-5, 8.5 hours, band-5, Revealing the missing link between normal and starburst galaxies at z~0.15 -- a follow-up to SEPIA detected galaxies
 
-TAP2017B, 1 night, Hale telescope/DBSP. Investigation on the local blue absorption line galaxy
+- TAP2017B, 1 night, Hale telescope/DBSP. Investigation on the local blue absorption line galaxy
 
-TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
+- TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
 
 ## Selected observational proposals as co-I:
 
-Spitzer Director's Discretionary Time proposal, 26.4 hours, Spitzer/IRAC. IRAC Imaging of Planck ''550 micron Peakers'' Selected Based on PCCS2 (PI: Haojing Yan)
+- Spitzer Director's Discretionary Time proposal, 26.4 hours, Spitzer/IRAC. IRAC Imaging of Planck ''550 micron Peakers'' Selected Based on PCCS2 (PI: Haojing Yan)
 
-ALMA cycle 7, 7.6 hours. A survey for the molecular gas content in normal star-forming galaxies at z~1.5: a VLT/KMOS and ALMA synergy (PI: Edo Ibar)
+- ALMA cycle 7, 7.6 hours. A survey for the molecular gas content in normal star-forming galaxies at z~1.5: a VLT/KMOS and ALMA synergy (PI: Edo Ibar)
 
 <!-- JCMT large project, 100 hours, {\bf JCMT/SCUBA2}. {\it AWESOME - A Well-Deep EAO Survey Observing Most Of The EBL} ({\bf Co-I: Cheng Cheng})-->
 
-GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies} (PI: Xu Shao)
+- GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies} (PI: Xu Shao)
 
-ALMA cycle 6, 26.7 hours, A survey for the molecular gas content in star-forming galaxies at z~1.5: exploiting the VLT/KMOS and ALMA synergy (PI: Edo Ibar)
+- ALMA cycle 6, 26.7 hours, A survey for the molecular gas content in star-forming galaxies at z~1.5: exploiting the VLT/KMOS and ALMA synergy (PI: Edo Ibar)
 
-APEX2018B, 18.8 hours, APEX. The molecular gas content taken from the MESS survey at z ~ 0.1 − 0.25 (PI: Juan Molina)
+- APEX2018B, 18.8 hours, APEX. The molecular gas content taken from the MESS survey at z ~ 0.1 − 0.25 (PI: Juan Molina)
 
-APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
+- APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
 
-ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies} (Thomas Hughes)
+- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies} (Thomas Hughes)
 
-ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
+- ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
 
-Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (Jianmin Wang)
+- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (Jianmin Wang)
 
 
 ## Academic Service
