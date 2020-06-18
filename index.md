@@ -4,11 +4,12 @@ title: Cheng Cheng's CV
 ---
 
 # Cheng Cheng
-Astronomer, Assistant professor
 
-<a href="chengcheng@nao.cas.cn">chengcheng@nao.cas.cn</a>
+<!--<a href="chengcheng@nao.cas.cn">chengcheng@nao.cas.cn</a>-->
 
 ## Currently
+
+Astronomer
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
@@ -20,9 +21,9 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 ### Research interests
 
-- Star formation size of galaxies
+- Low mass galaxies
 - Star formation efficiency
-- multi-wavelength photometry
+- Multi-wavelength photometry
 - [NII] in high-z galaxies
 - Extra-galactic neutral hydrogen emission
 
@@ -56,7 +57,9 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 ## Awards
 
 `2017` Outstanding Employee third-class Awards, Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences
+
 `2017` Excellent Postdoctoral Researcher, National Astronomical Observatories, Chinese Academy of Sciences
+
 `2013` Excellent student prize of Institute Chief Fellowships, Institute of High Energy Physics
 
 ## Funding
@@ -100,25 +103,25 @@ TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectrosco
 
 ## Selected observational proposals as co-I:
 
-- Spitzer Director's Discretionary Time proposal, 26.4 hours, Spitzer/IRAC. IRAC Imaging of Planck ''550 micron Peakers'' Selected Based on PCCS2 (PI: Haojing Yan)
+Spitzer Director's Discretionary Time proposal, 26.4 hours, Spitzer/IRAC. IRAC Imaging of Planck ''550 micron Peakers'' Selected Based on PCCS2 (PI: Haojing Yan)
 
-- ALMA cycle 7, 7.6 hours. A survey for the molecular gas content in normal star-forming galaxies at z~1.5: a VLT/KMOS and ALMA synergy (PI: Edo Ibar)
+ALMA cycle 7, 7.6 hours. A survey for the molecular gas content in normal star-forming galaxies at z~1.5: a VLT/KMOS and ALMA synergy (PI: Edo Ibar)
 
 <!-- JCMT large project, 100 hours, {\bf JCMT/SCUBA2}. {\it AWESOME - A Well-Deep EAO Survey Observing Most Of The EBL} ({\bf Co-I: Cheng Cheng})-->
 
-- GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies} (PI: Xu Shao)
+GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies} (PI: Xu Shao)
 
-- ALMA cycle 6, 26.7 hours, A survey for the molecular gas content in star-forming galaxies at z~1.5: exploiting the VLT/KMOS and ALMA synergy (PI: Edo Ibar)
+ALMA cycle 6, 26.7 hours, A survey for the molecular gas content in star-forming galaxies at z~1.5: exploiting the VLT/KMOS and ALMA synergy (PI: Edo Ibar)
 
-- APEX2018B, 18.8 hours, APEX. The molecular gas content taken from the MESS survey at z ~ 0.1 − 0.25 (PI: Juan Molina)
+APEX2018B, 18.8 hours, APEX. The molecular gas content taken from the MESS survey at z ~ 0.1 − 0.25 (PI: Juan Molina)
 
-- APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
+APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
 
-- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies} (Thomas Hughes)
+ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies} (Thomas Hughes)
 
-- ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
+ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
 
-- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (Jianmin Wang)
+Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (Jianmin Wang)
 
 
 ## Academic Service
