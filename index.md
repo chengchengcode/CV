@@ -67,9 +67,9 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 `2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant of National Astronomical Observatories (top class), Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollar), PI: Cheng Cheng
 
-`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey}, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollar), PI: Jiasheng Huang, major Co-I: Cheng Cheng
+`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollar), PI: Jiasheng Huang, main co-I: Cheng Cheng
 
-`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu, major Co-I: Cheng Cheng	
+`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu, main co-I: Cheng Cheng	
 <!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和 恒星形成率定量的全新方法-->
 
 ## Observational proposals as PI:
@@ -108,7 +108,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 <!-- JCMT large project, 100 hours, {\bf JCMT/SCUBA2}. {\it AWESOME - A Well-Deep EAO Survey Observing Most Of The EBL} ({\bf Co-I: Cheng Cheng})-->
 
-- GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies} (PI: Xu Shao)
+- GTC2018B 4.5 hours, GTC/OSIRIS/Long slit spectroscopy. Calibrating the PAH emission as a SFR tracer for low-metallicity galaxies (PI: Xu Shao)
 
 - ALMA cycle 6, 26.7 hours, A survey for the molecular gas content in star-forming galaxies at z~1.5: exploiting the VLT/KMOS and ALMA synergy (PI: Edo Ibar)
 
@@ -116,7 +116,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
 
-- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies} (Thomas Hughes)
+- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies (Thomas Hughes)
 
 - ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
 
