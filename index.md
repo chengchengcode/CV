@@ -71,31 +71,31 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Observational proposals as PI:
 
-- 2019B, JCMT, 16hours, SCUBA2 Imaging of the Spitzer IRAC Dark Field
+2019B, JCMT, 16hours, SCUBA2 Imaging of the Spitzer IRAC Dark Field
 
-- LOT2020A, 2 nights, Lulin One meter Telescope. Halpha and Hbeta narrow bands observation of the UV and FIR resolved local galaxies
+LOT2020A, 2 nights, Lulin One meter Telescope. Halpha and Hbeta narrow bands observation of the UV and FIR resolved local galaxies
 
-- TAP2020A, 0.5 night, Hale telescope/CWI. Using P200/CWI to probe the origin of the double CO core in an ALMA galaxy at redshift 0.15
+TAP2020A, 0.5 night, Hale telescope/CWI. Using P200/CWI to probe the origin of the double CO core in an ALMA galaxy at redshift 0.15
 
-- Share-risk proposal in Commissioning Phase, 10 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
+Share-risk proposal in Commissioning Phase, 10 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
 
-- TAP2019A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
+TAP2019A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
 
-- SMA2019A, 10.5 hours, SMA/compact. Exploring molecular gas content in low mass galaxies
+SMA2019A, 10.5 hours, SMA/compact. Exploring molecular gas content in low mass galaxies
 
-- TAP2018B, 2 nights, Hale telescope/DBSP. Investigating local faint star forming galaxies: the bulge formation, stellar population and metallicity
+TAP2018B, 2 nights, Hale telescope/DBSP. Investigating local faint star forming galaxies: the bulge formation, stellar population and metallicity
 
-- 2018A, 2 nights, Magellan / Baade /IMACS. Gas diagnostics in star-forming galaxies: understanding the star-formation process of Herschel galaxies in the main sequence
+2018A, 2 nights, Magellan / Baade /IMACS. Gas diagnostics in star-forming galaxies: understanding the star-formation process of Herschel galaxies in the main sequence
 
-- TAP2018A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
+TAP2018A, 20.68 hours, CFHT/WIRCam. Deep Near-IR Imaging of the IRAC Deep Field (IDF) --- Preparing for the JWST
 
-- 2018A, 7 hours, Gemini/GMOS-IFU. Investigating local faint star forming galaxies: the bulge formation, star formation quenching and metallicity
+2018A, 7 hours, Gemini/GMOS-IFU. Investigating local faint star forming galaxies: the bulge formation, star formation quenching and metallicity
 
-- ALMA cycle-5, 8.5 hours, band-5, Revealing the missing link between normal and starburst galaxies at z~0.15 -- a follow-up to SEPIA detected galaxies
+ALMA cycle-5, 8.5 hours, band-5, Revealing the missing link between normal and starburst galaxies at z~0.15 -- a follow-up to SEPIA detected galaxies
 
-- TAP2017B, 1 night, Hale telescope/DBSP. Investigation on the local blue absorption line galaxy
+TAP2017B, 1 night, Hale telescope/DBSP. Investigation on the local blue absorption line galaxy
 
-- TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
+TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
 
 ## Selected observational proposals as co-I:
 
