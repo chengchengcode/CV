@@ -1,14 +1,10 @@
----
-layout: cv
-title: Cheng Cheng's CV
----
+
 # Cheng Cheng
 Astronomer, Assistant professor
 
-<div id="webaddress">
 <a href="chengcheng@nao.cas.cn">chengcheng@nao.cas.cn</a>
 
-## Currently
+> ## Currently
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
