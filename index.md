@@ -2,6 +2,7 @@
 layout: kjhealy
 title: Cheng Cheng's CV
 ---
+
 # Cheng Cheng
 Astronomer, Assistant professor
 
@@ -28,7 +29,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 ## Education
 
 `2018---present` 
-**Assistant professor**
+Assistant professor
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
