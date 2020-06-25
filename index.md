@@ -17,7 +17,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 - APEX, ALMA, MMT/Hectospec, FAST data reduction
 - GALEX, Spitzer/IRAC image mosaic
-- Crowd field photometry
+- Crowded-field photometry
 
 ### Research interests
 
