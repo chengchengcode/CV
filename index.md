@@ -13,10 +13,10 @@ Astronomer
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
-### Specialized in
+### Expertise
 
 - APEX, ALMA, MMT/Hectospec, FAST data reduction
-- GALEX, Spitzer/IRAC data stacking
+- GALEX, Spitzer/IRAC image mosaic
 - Crowd field photometry
 
 ### Research interests
@@ -29,7 +29,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 ## Education
 
 `2018---present` 
-Assistant professor
+Assistant professor (3 years contract)
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
@@ -42,7 +42,7 @@ Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Valpara\'iso,
 Postdoctoral Researcher
 
 National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China. Supervisor: Jiasheng Huang
- 
+
 `2008---2013` Ph.D in Astrophysics
 
 Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China. Thesis: *Clumpy accretion onto black holes* Supervisor: Jian-Min Wang
@@ -65,12 +65,12 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 `2019.01 - 2021.12` ALMA Spectral Line Imaging in Submillimeter: The Spatially Study of the Galaxies Star Formation Efficiency at Redshift 0.15, National Natural Science Foundation of China, No. 11803044, 280 000 rmb (~ 40 000 US dollar), PI: Cheng Cheng
 
-`2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant of National Astronomical Observatories (top class), Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollar), PI: Cheng Cheng
+`2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant (top class) of National Astronomical Observatories, Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollar), PI: Cheng Cheng
 
-`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollar), PI: Jiasheng Huang, main co-I: Cheng Cheng
+`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollar), PI: Jiasheng Huang; main participant: Cheng Cheng	
 
-`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu, main co-I: Cheng Cheng	
-<!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和 恒星形成率定量的全新方法-->
+`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu; main participant: Cheng Cheng	
+<!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和恒星形成率定量的全新方法-->
 
 ## Observational proposals as PI:
 
@@ -116,27 +116,24 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - APEX2018A, 20 hours, APEX. Physical conditions in molecular gas in galaxies across the transition region from main-sequence to starbursts (PI: Thomas Hughes)
 
-- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies (Thomas Hughes)
+- ESO2017B, 25 hours, VLT/MUSE. MUSE imaging of ionised gas across the transition region from main-sequence to starburst galaxies (PI: Thomas Hughes)
 
 - ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
 
-- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (Jianmin Wang)
+- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (PI: Jianmin Wang)
 
 
 ## Academic Service
 
-- Science review panel of the China-Chile joint postdoc project, 2019
-
-- Science review panel of the National Natural Science Foundation of China, 2019
+- Science review panel of the China-Chile joint postdoc project (2019), National Natural Science Foundation of China (2019)
 
 - LOC of the 5th China-Chile Bi-Lateral Astronomy Science Meeting
-
 
 ## Publications
 
 - **Cheng, Cheng** et al. *The atomic gas of star-forming galaxies at z~0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope*, A&A Letter accepted.
 
-- G. Orellana-Gonz\'alez, E. Ibar, R. Leiton, A.P. Thomson, **Cheng Cheng**, R. Ivison, R. Herrera-Camus, H. Messias, P. Calder\'on-Castillo, T. M. Hughes, and L. Leeuw *The evolution of the molecular gas mass density of the Universe from an empirical relation between L_IR and L_CO*, MNRAS, accepted.
+- G. Orellana-González, E. Ibar, R. Leiton, A.P. Thomson, **Cheng Cheng**, R. Ivison, R. Herrera-Camus, H. Messias, P. Calderón-Castillo, T. M. Hughes, and L. Leeuw *The evolution of the molecular gas mass density of the Universe from an empirical relation between L_IR and L_CO*, MNRAS, accepted.
 
 - Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, RAA, accepted.
 
@@ -144,7 +141,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - Wei Du, **Cheng Cheng**, Zheng Zheng, Hong Wu *Stellar Mass and stellar Mass-to-light ratio - Color relations for Low Surface Brightness Galaxies*, AJ, 159 138
 
-- **Cheng Cheng**, Cong Kevin Xu, Lizhi Xie, Zhizheng Pan, Wei Du, Gustavo Orellana-Gonz\'alez, Xu Shao, Shumei Wu, Roger Leiton, Jia-Sheng Huang, Sophia Yu Dai, Paulina Assmann, Nicole Araneda *UV and NIR size of the low-mass field galaxies: the UV compact galaxies* A&A, 633, A105
+- **Cheng Cheng**, Cong Kevin Xu, Lizhi Xie, Zhizheng Pan, Wei Du, Gustavo Orellana-González, Xu Shao, Shumei Wu, Roger Leiton, Jia-Sheng Huang, Sophia Yu Dai, Paulina Assmann, Nicole Araneda *UV and NIR size of the low-mass field galaxies: the UV compact galaxies* A&A, 633, A105
 
 - Wei Du, **Cheng Cheng**, Hong Wu, Ming Zhu and Yougang Wang *Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation* MNRAS, 2019, 483, 1754
 
