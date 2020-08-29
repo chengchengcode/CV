@@ -63,6 +63,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Funding
 
+`2020.01 - 2020.12` Kpc-scale multi-wavelength star formation properties of galaxies at high redshift, Emergency Project of NAOC, 102 000 rms (~ 14 857.11 US dollar), PI: Cheng Cheng
+
 `2019.01 - 2021.12` ALMA Spectral Line Imaging in Submillimeter: The Spatially Study of the Galaxies Star Formation Efficiency at Redshift 0.15, National Natural Science Foundation of China, No. 11803044, 280 000 rmb (~ 40 000 US dollar), PI: Cheng Cheng
 
 `2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant (top class) of National Astronomical Observatories, Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollar), PI: Cheng Cheng
@@ -73,6 +75,10 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 <!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和恒星形成率定量的全新方法-->
 
 ## Observational proposals as PI:
+
+- 2020B, 30 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
+
+- 2020B, 16 hours, FAST/19-beam receiver. Unveiling the HI gas for super spiral galaxies at redshift 0.27
 
 - LOT2020A, 2 nights, Lulin One meter Telescope. Halpha and Hbeta narrow bands observation of the UV and FIR resolved local galaxies
 
@@ -120,7 +126,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - ALMA cycle-5, 4.4 hours, Dust destruction by radio jets in Seyfert galaxies as seen by ALMA and VLT (PI: Roger Leiton)
 
-- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (PI: Jianmin Wang)
+- Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (PI: Jian-Min Wang)
 
 
 ## Academic Service
@@ -131,13 +137,15 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Publications
 
-- **Cheng, Cheng** et al. *The atomic gas of star-forming galaxies at z~0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope*, A&A Letter accepted.
+- **Cheng, Cheng** et al. FUV and NIR size of the HI selected low surface brightness galaxies, 2020, RAA accepted.
 
-- G. Orellana-González, E. Ibar, R. Leiton, A.P. Thomson, **Cheng Cheng**, R. Ivison, R. Herrera-Camus, H. Messias, P. Calderón-Castillo, T. M. Hughes, and L. Leeuw *The evolution of the molecular gas mass density of the Universe from an empirical relation between L_IR and L_CO*, MNRAS, accepted.
+- Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, 2020, RAA, 20, 101.
 
-- Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, RAA, accepted.
+- **Cheng Cheng**; Cao, Xiaoyue; Lu, Nanyao; Li, Ran; Yang, Chentao; Rigopoulou, Dimitra; Charman- daris, Vassilis; Gao, Yu; Xu, Cong Kevin; van der Werf, Paul; Diaz Santos, Tanio; Privon, George C.; Zhao, Yinghe; Cao, Tianwen; Dai, Y. Sophia; Huang, Jia-Sheng; Sanders, David; Wang, Chunxiang; Wang, Zhong; Zhu, Lei, *ALMA [NII] 205μm Imaging Spectroscopy of the brightest Submillimeter galaxy ID141 at redshift 4.24* 2020, ApJ, 898, 33
 
-- **Cheng, Cheng**; Lu, Nanyao; et al. *ALMA [NII] 205um Imaging Spectroscopy of the brightest Submillimeter galaxy ID141 at redshift 4.24*, ApJ, accepted.
+**Cheng Cheng**; Ibar, Edo; Du, Wei; Molina, Juan; Orellana-Gonzáles, Gustavo; Zhang, Bo; Zhu, Ming; Xu, Cong Kevin; Wu, Shumei; Cao, Tianwen; Huang, Jia-Sheng; Leiton, Roger; Hughes, Thomas M.; He, Chuan; Li, Zijian; Xu, Hai; Sophia Dai, Y.; Shao, Xu; Musin, Marat, *The atomic gas of star-forming galaxies at z∼0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope* 2020, A&A, 638L, 14C
+
+- Orellana-González, G.; Ibar, E.; Leiton, R.; Thomson, A. P.; **Cheng, Cheng**; Ivison, R. J.; Herrera- Camus, R.; Messias, H.; Calderón-Castillo, P.; Hughes, T. M.; Leeuw, L., *The evolution of the molecular gas mass density of the Universe from an empirical relation between LIR and LCO* 2020, MNRAS, 495, 1760
 
 - Wei Du, **Cheng Cheng**, Zheng Zheng, Hong Wu *Stellar Mass and stellar Mass-to-light ratio - Color relations for Low Surface Brightness Galaxies*, AJ, 159 138
 
