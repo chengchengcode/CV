@@ -153,26 +153,26 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - **Cheng Cheng**; Ibar, Edo; Du, Wei; Molina, Juan; Orellana-Gonzáles, Gustavo; Zhang, Bo; Zhu, Ming; Xu, Cong Kevin; Wu, Shumei; Cao, Tianwen; Huang, Jia-Sheng; Leiton, Roger; Hughes, Thomas M.; He, Chuan; Li, Zijian; Xu, Hai; Sophia Dai, Y.; Shao, Xu; Musin, Marat, *The atomic gas of star-forming galaxies at z∼0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope* 2020, A&A, 638L, 14C
 
-- Orellana-González, G.; Ibar, E.; Leiton, R.; Thomson, A. P.; **Cheng, Cheng**; Ivison, R. J.; Herrera- Camus, R.; Messias, H.; Calderón-Castillo, P.; Hughes, T. M.; Leeuw, L., *The evolution of the molecular gas mass density of the Universe from an empirical relation between LIR and LCO* 2020, MNRAS, 495, 1760
+- Orellana-González, G.; Ibar, E.; Leiton, R.; Thomson, A. P.; **Cheng, Cheng**; Ivison, R. J.; Herrera- Camus, R.; Messias, H.; Calderón-Castillo, P.; Hughes, T. M.; Leeuw, L., *The evolution of the molecular gas mass density of the Universe from an empirical relation between LIR and LCO*, 2020, MNRAS, 495, 1760
 
-- Wei Du, **Cheng Cheng**, Zheng Zheng, Hong Wu *Stellar Mass and stellar Mass-to-light ratio - Color relations for Low Surface Brightness Galaxies*, AJ, 159 138
+- Wei Du, **Cheng Cheng**, Zheng Zheng, Hong Wu *Stellar Mass and stellar Mass-to-light ratio - Color relations for Low Surface Brightness Galaxies*, 2020, AJ, 159 138
 
-- **Cheng Cheng**, Cong Kevin Xu, Lizhi Xie, Zhizheng Pan, Wei Du, Gustavo Orellana-González, Xu Shao, Shumei Wu, Roger Leiton, Jia-Sheng Huang, Sophia Yu Dai, Paulina Assmann, Nicole Araneda *UV and NIR size of the low-mass field galaxies: the UV compact galaxies* A&A, 633, A105
+- **Cheng Cheng**, Cong Kevin Xu, Lizhi Xie, Zhizheng Pan, Wei Du, Gustavo Orellana-González, Xu Shao, Shumei Wu, Roger Leiton, Jia-Sheng Huang, Sophia Yu Dai, Paulina Assmann, Nicole Araneda *UV and NIR size of the low-mass field galaxies: the UV compact galaxies*, 2020, A&A, 633, A105
 
-- Wei Du, **Cheng Cheng**, Hong Wu, Ming Zhu and Yougang Wang *Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation* MNRAS, 2019, 483, 1754
+- Wei Du, **Cheng Cheng**, Hong Wu, Ming Zhu and Yougang Wang *Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation*, 2019, MNRAS, 483, 1754
 
-- Molina, J.; Ibar, Edo; Villanueva, V.; Escala, A.; **Cheng, Cheng** et al. *VALES V: A kinematic analysis of the molecular gas content in H-ATLAS galaxies at z ~ 0.03 - 0.35 using ALMA* MNRAS, 2019, 482, 1499.
+- Molina, J.; Ibar, Edo; Villanueva, V.; Escala, A.; **Cheng, Cheng** et al. *VALES V: A kinematic analysis of the molecular gas content in H-ATLAS galaxies at z ~ 0.03 - 0.35 using ALMA*, 2019, MNRAS, 482, 1499.
 
-- Lu, Nanyao; Cao, Tianwen; Díaz-Santos, Tanio; Zhao, Yinghe; Privon, George C.; **Cheng, Cheng**; Gao, Yu; Xu, C. Kevin; Charmandaris, Vassilis; Rigopoulou, Dimitra; van der Werf, Paul P.; Huang, Jiasheng; Wang, Zhong; Evans, Aaron S.; Sanders, David B. *CO (7‑6), [C I] 370 um, and [N II] 205 um Line Emission of the QSO BRI 1335-0417 at Redshift 4.407* ApJ, 2018, 864, 38L
+- Lu, Nanyao; Cao, Tianwen; Díaz-Santos, Tanio; Zhao, Yinghe; Privon, George C.; **Cheng, Cheng**; Gao, Yu; Xu, C. Kevin; Charmandaris, Vassilis; Rigopoulou, Dimitra; van der Werf, Paul P.; Huang, Jiasheng; Wang, Zhong; Evans, Aaron S.; Sanders, David B. *CO (7‑6), [C I] 370 um, and [N II] 205 um Line Emission of the QSO BRI 1335-0417 at Redshift 4.407*, 2018, ApJ, 864, 38L
 
-- **Cheng Cheng**; E. Ibar; T. M. Hughes; V. Villanueva; R. Leiton; G. Orellana; A. Munoz-Arancibia; N. Lu; C. K. Xu; T. Cao; J. Huang; C. Willmer; C. Yang; Y. Xue; and K. Torstensson *VALES: IV. Exploring the transition of star formation efficiencies in normal and starburst galaxies using APEX/SEPIA and ALMA at low redshift* MNRAS, 2018, 475, 248C
+- **Cheng Cheng**; E. Ibar; T. M. Hughes; V. Villanueva; R. Leiton; G. Orellana; A. Munoz-Arancibia; N. Lu; C. K. Xu; T. Cao; J. Huang; C. Willmer; C. Yang; Y. Xue; and K. Torstensson *VALES: IV. Exploring the transition of star formation efficiencies in normal and starburst galaxies using APEX/SEPIA and ALMA at low redshift*, 2018, MNRAS, 475, 248C
 
-- Liu, Jiren; Liu, Yuan; Li, Xiaobo; Xu, Weiwei; Gou, Lijun; **Cheng, Cheng** *Clumpy tori around type II active galactic nuclei as revealed by X-ray fluorescent lines* MNRAS, 2016, 459L, 100L
+- Liu, Jiren; Liu, Yuan; Li, Xiaobo; Xu, Weiwei; Gou, Lijun; **Cheng, Cheng** *Clumpy tori around type II active galactic nuclei as revealed by X-ray fluorescent lines*, 2016, MNRAS, 459L, 100L
 
-- Du, Pu; Hu, Chen; Lu, Kai-Xing; Huang, Ying-Ke; **Cheng, Cheng**; et al. *Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IV.  Hbeta Time Lags and Implications for Super-Eddington Accretion* ApJ, 2015, 806, 22
+- Du, Pu; Hu, Chen; Lu, Kai-Xing; Huang, Ying-Ke; **Cheng, Cheng**; et al. *Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IV.  Hbeta Time Lags and Implications for Super-Eddington Accretion*, 2015, ApJ, 806, 22
 
-- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Alignments Of Black Holes with Their Warped Accretion Disks and Episodic Lifetimes of Active Galactic Nuclei* ApJ, 2015, 804, 45L
+- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Alignments Of Black Holes with Their Warped Accretion Disks and Episodic Lifetimes of Active Galactic Nuclei*, 2015, ApJ, 804, 45L
 
-- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Evolution of Warped Accretion Disks in Active Galactic Nuclei. I. Roles of Feeding at the Outer Boundaries* 2013, ApJ, 764, 16
+- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Evolution of Warped Accretion Disks in Active Galactic Nuclei. I. Roles of Feeding at the Outer Boundaries*, 2013, ApJ, 764, 16
 
-- Wang, Jian-Min; **Cheng, Cheng**, Li, Yan-Rong *Clumpy Accretion onto Black Holes. I. Clumpy-advection-dominated Accretion Flow Structure and Radiation* 2012, ApJ, 748, 147
+- Wang, Jian-Min; **Cheng, Cheng**, Li, Yan-Rong *Clumpy Accretion onto Black Holes. I. Clumpy-advection-dominated Accretion Flow Structure and Radiation*, 2012, ApJ, 748, 147
