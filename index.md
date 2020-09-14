@@ -145,6 +145,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Publications
 
+- Juan Molina, Edo Ibar, Nicolás Godoy, Andrés Escala, Tomonari Michiyama, **Cheng Cheng**, Thomas M. Hughes, Maarten Baes, Yongquan Xue, Michał J. Michałowski, Paul van der Werf, Xue-Jian Jiang, *VALES VII: Molecular and ionized gas properties in pressure balanced interstellar medium of starburst galaxies at z ∼ 0.15*, 2020, A&A, accepted
+
 - **Cheng, Cheng** et al. FUV and NIR size of the HI selected low surface brightness galaxies, 2020, RAA accepted.
 
 - Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, 2020, RAA, 20, 101.
