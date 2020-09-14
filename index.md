@@ -135,6 +135,14 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - LOC of the 5th China-Chile Bi-Lateral Astronomy Science Meeting
 
+## Press releases
+
+Xinhua: [Where did the stars come from? Astronomers around the world are working together for the answer](http://www.xinhuanet.com/english/2019-11/28/c_138590008.htm) | *MultilateralismMatters*
+
+Xinhua: [China's FAST telescope detects extragalactic neutral hydrogen for dark matter study](http://www.xinhuanet.com/english/2020-07/03/c_139186470.htm)
+
+AAAS Eurekalert: [FAST detects neutral hydrogen emission from extragalactic galaxies for the first time](https://www.eurekalert.org/pub_releases/2020-07/caos-fdn070120.php)
+
 ## Publications
 
 - **Cheng, Cheng** et al. FUV and NIR size of the HI selected low surface brightness galaxies, 2020, RAA accepted.
