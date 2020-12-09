@@ -145,13 +145,13 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Publications
 
-- **Cheng, Cheng**; Ibar, Edo; Smail, Ian; Molina, Juan; Sobral, David; Escala, Andrés; Best, Philip; Cochrane, Rachel; Gillman, Steven; Swinbank, Mark; Ivison, R. J.; Huang, Jia-Sheng; Hughes, Thomas M.; Villard, Eric; Cirasuolo, Michele *A kpc-scale-resolved study of unobscured and obscured star formation activity in normal galaxies at z = 1.5 and 2.2 from ALMA and HiZELS*, 2020, MNRAS, 499, 5241C
+- **Cheng, Cheng**; Ibar, Edo; Smail, Ian; Molina, Juan; Sobral, David; Escala, Andrés; Best, Philip; Cochrane, Rachel; Gillman, Steven; Swinbank, Mark; Ivison, R. J.; Huang, Jia-Sheng; Hughes, Thomas M.; Villard, Eric; Cirasuolo, Michele, *A kpc-scale-resolved study of unobscured and obscured star formation activity in normal galaxies at z = 1.5 and 2.2 from ALMA and HiZELS*, 2020, MNRAS, 499, 5241C
 
-- Xu, Hai; Dai, Y. Sophia; Huang, Jia-Sheng; Wang, Zhaoyu; **Cheng, Cheng**; Shao, Xu; Wu, Shumei; Yang, Xiaohu; Jing, Yipeng; Sawicki, Marcin; Liu, Feng-Yuan, *A Large Massive Quiescent Galaxy Sample at z~1.2*, 2020arXiv201010941X	
+- Xu, Hai; Dai, Y. Sophia; Huang, Jia-Sheng; Wang, Zhaoyu; **Cheng, Cheng**; Shao, Xu; Wu, Shumei; Yang, Xiaohu; Jing, Yipeng; Sawicki, Marcin; Liu, Feng-Yuan, *A Large Massive Quiescent Galaxy Sample at z~1.2*, 2020arXiv201010941X, ApJ accepted.
 
 - Juan Molina, Edo Ibar, Nicolás Godoy, Andrés Escala, Tomonari Michiyama, **Cheng Cheng**, Thomas M. Hughes, Maarten Baes, Yongquan Xue, Michał J. Michałowski, Paul van der Werf, Xue-Jian Jiang, *VALES VII: Molecular and ionized gas properties in pressure balanced interstellar medium of starburst galaxies at z ∼ 0.15*, 2020, A&A, 643, 78
 
-- **Cheng, Cheng** et al. UV and NIR size of the HI selected low surface brightness galaxies, 2020, RAA accepted.
+- **Cheng, Cheng**; Du, Wei; Xu, Cong Kevin; Cao, Tianwen; Zhang, Hong-Xin; Huang, Jia-Sheng; He, Chuan; Li, Zijian; Wu, Shumei; Xu, Hai; Dai, Y. Sophia; Shao, Xu; Musin, Marat, *UV and NIR size of the HI selected low surface brightness galaxies* 2020arXiv201100688C, RAA accepted.
 
 - Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, 2020, RAA, 20, 101.
 
