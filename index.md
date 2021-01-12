@@ -141,13 +141,15 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - Xinhua: [China's FAST telescope detects extragalactic neutral hydrogen for dark matter study](http://www.xinhuanet.com/english/2020-07/03/c_139186470.htm)
 
+- Chinanews: 中国“天眼”首次探测到河外星系中性氢发射线 或助暗物质研究 [http://www.chinanews.com/gn/2020/07-02/9227336.shtml]
+
 - AAAS Eurekalert: [FAST detects neutral hydrogen emission from extragalactic galaxies for the first time](https://www.eurekalert.org/pub_releases/2020-07/caos-fdn070120.php)
 
 ## Publications
 
 - **Cheng, Cheng**; Ibar, Edo; Smail, Ian; Molina, Juan; Sobral, David; Escala, Andrés; Best, Philip; Cochrane, Rachel; Gillman, Steven; Swinbank, Mark; Ivison, R. J.; Huang, Jia-Sheng; Hughes, Thomas M.; Villard, Eric; Cirasuolo, Michele, *A kpc-scale-resolved study of unobscured and obscured star formation activity in normal galaxies at z = 1.5 and 2.2 from ALMA and HiZELS*, 2020, MNRAS, 499, 5241C
 
-- Xu, Hai; Dai, Y. Sophia; Huang, Jia-Sheng; Wang, Zhaoyu; **Cheng, Cheng**; Shao, Xu; Wu, Shumei; Yang, Xiaohu; Jing, Yipeng; Sawicki, Marcin; Liu, Feng-Yuan, *A Large Massive Quiescent Galaxy Sample at z~1.2*, 2020arXiv201010941X, ApJ accepted.
+- Xu, Hai; Dai, Y. Sophia; Huang, Jia-Sheng; Wang, Zhaoyu; **Cheng, Cheng**; Shao, Xu; Wu, Shumei; Yang, Xiaohu; Jing, Yipeng; Sawicki, Marcin; Liu, Feng-Yuan, *A Large Massive Quiescent Galaxy Sample at z~1.2*, 2020, ApJ, 905, 103X.
 
 - Juan Molina, Edo Ibar, Nicolás Godoy, Andrés Escala, Tomonari Michiyama, **Cheng Cheng**, Thomas M. Hughes, Maarten Baes, Yongquan Xue, Michał J. Michałowski, Paul van der Werf, Xue-Jian Jiang, *VALES VII: Molecular and ionized gas properties in pressure balanced interstellar medium of starburst galaxies at z ∼ 0.15*, 2020, A&A, 643, 78
 
