@@ -74,6 +74,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 `2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu; main participant: Cheng Cheng	
 <!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和恒星形成率定量的全新方法-->
 
+`2017/07-2022/06` 参加国家重点研发计划 恒星形成与星际介质研究 课题四：星际介质、恒星形成率和恒星形成定律，PI: Yu Gao
+
 ## Observational proposals as PI:
 
 - 2020B, 30 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
