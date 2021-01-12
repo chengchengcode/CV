@@ -143,7 +143,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - Xinhua: [China's FAST telescope detects extragalactic neutral hydrogen for dark matter study](http://www.xinhuanet.com/english/2020-07/03/c_139186470.htm)
 
-- Chinanews: 中国“天眼”首次探测到河外星系中性氢发射线 或助暗物质研究 [http://www.chinanews.com/gn/2020/07-02/9227336.shtml]
+- Chinanews: [中国“天眼”首次探测到河外星系中性氢发射线 或助暗物质研究] (http://www.chinanews.com/gn/2020/07-02/9227336.shtml)
 
 - AAAS Eurekalert: [FAST detects neutral hydrogen emission from extragalactic galaxies for the first time](https://www.eurekalert.org/pub_releases/2020-07/caos-fdn070120.php)
 
