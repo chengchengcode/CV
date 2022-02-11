@@ -81,6 +81,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Observational proposals as PI:
 
+- 2022A, 7 hours, Gemini-North/GMOS. A pilot survey of low mass quiescent field galaxies at z ~ 0.15: measuring their chemical evolution and kinematics
+
 - 2020B, 30 hours, FAST/19-beam receiver. Unveiling the HI gas for galaxies in transition from low to high star formation efficiency
 
 - 2020B, 16 hours, FAST/19-beam receiver. Unveiling the HI gas for super spiral galaxies at redshift 0.27
@@ -112,6 +114,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 - TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
 
 ## Selected observational proposals as co-I:
+
+- GTC/MEGARA, 2021B, 5 hours. Testing ISM self-regulated models through the observation of starburst galaxies lying in the star-formation efficiency transition zone (PI: Juan Molina)
 
 - Spitzer Director's Discretionary Time proposal, 26.4 hours, Spitzer/IRAC. IRAC Imaging of Planck ''550 micron Peakers'' Selected Based on PCCS2 (PI: Haojing Yan)
 
