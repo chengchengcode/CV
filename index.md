@@ -66,6 +66,8 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Funding
 
+`2022.01 - 2025.12` An observational study of extragalactic neutral hydrogen gas, National Natural Science Foundation of China, General Program, 600 000 rms (~ 94 857.16 US dollar), PI: Cheng Cheng
+
 `2020.01 - 2020.12` Kpc-scale multi-wavelength star formation properties of galaxies at high redshift, Emergency Project of NAOC, 102 000 rms (~ 14 857.11 US dollar), PI: Cheng Cheng
 
 `2019.01 - 2021.12` ALMA Spectral Line Imaging in Submillimeter: The Spatially Study of the Galaxies Star Formation Efficiency at Redshift 0.15, National Natural Science Foundation of China, No. 11803044, 280 000 rmb (~ 40 000 US dollar), PI: Cheng Cheng
@@ -156,6 +158,10 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 - AAAS Eurekalert: [FAST detects neutral hydrogen emission from extragalactic galaxies for the first time](https://www.eurekalert.org/pub_releases/2020-07/caos-fdn070120.php)
 
 ## Publications
+
+- **Cheng, Cheng**; Huang, Jia-Sheng; Willmer, Christopher N. A.; Zhang, Hong-Xin; Ashby, Matthew L. N.; Xu, Hai; Sawicki, Marcin; Arnouts, Stephane; Gwyn, Stephen; Desprez, Guilllaume; Coupon, Jean; Golob, Anneya; Liang, Piaoran; Cao, Tianwen; Shi, Yaru; Jin, Gaoxiang; He, Chuan; Wu, Shumei; Li, Zijian; Dai, Y. Sophia; Xu, C. Kevin; Shao, Xu; Musin, Marat, *Searching for Low-redshift Faint Galaxies with MMT/Hectospec*, 2021, ApJS, 256, 4
+
+- **Cheng, Cheng**; Du, Wei; Xu, Cong Kevin; Cao, Tian-Wen; Zhang, Hong-Xin; Huang, Jia-Sheng; He, Chuan; Li, Zi-Jian; Wu, Shu-Mei; Xu, Hai; Dai, Y. Sophia; Shao, Xu; Musin, Marat, *FUV and NIR size of the HI selected low surface brightness galaxies*, 2021, RAA, 21, 76
 
 - **Cheng, Cheng**; Ibar, Edo; Smail, Ian; Molina, Juan; Sobral, David; Escala, Andrés; Best, Philip; Cochrane, Rachel; Gillman, Steven; Swinbank, Mark; Ivison, R. J.; Huang, Jia-Sheng; Hughes, Thomas M.; Villard, Eric; Cirasuolo, Michele, *A kpc-scale-resolved study of unobscured and obscured star formation activity in normal galaxies at z = 1.5 and 2.2 from ALMA and HiZELS*, 2020, MNRAS, 499, 5241C
 
