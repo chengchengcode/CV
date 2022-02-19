@@ -66,17 +66,17 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Funding
 
-`2022.01 - 2025.12` An observational study of extragalactic neutral hydrogen gas, National Natural Science Foundation of China, General Program, 600 000 rms (~ 94 857.16 US dollar), PI: Cheng Cheng
+`2022.01 - 2025.12` An observational study of extragalactic neutral hydrogen gas, National Natural Science Foundation of China, General Program, 600 000 rms (~ 94 857.16 US dollars), PI: Cheng Cheng
 
-`2020.01 - 2020.12` Kpc-scale multi-wavelength star formation properties of galaxies at high redshift, Emergency Project of NAOC, 102 000 rms (~ 14 857.11 US dollar), PI: Cheng Cheng
+`2020.01 - 2020.12` Kpc-scale multi-wavelength star formation properties of galaxies at high redshift, Emergency Project of NAOC, 102 000 rms (~ 14 857.11 US dollars), PI: Cheng Cheng
 
-`2019.01 - 2021.12` ALMA Spectral Line Imaging in Submillimeter: The Spatially Study of the Galaxies Star Formation Efficiency at Redshift 0.15, National Natural Science Foundation of China, No. 11803044, 280 000 rmb (~ 40 000 US dollar), PI: Cheng Cheng
+`2019.01 - 2021.12` ALMA Spectral Line Imaging in Submillimeter: The Spatially Study of the Galaxies Star Formation Efficiency at Redshift 0.15, National Natural Science Foundation of China, No. 11803044, 280 000 rmb (~ 40 000 US dollars), PI: Cheng Cheng
 
-`2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant (top class) of National Astronomical Observatories, Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollar), PI: Cheng Cheng
+`2018.06 - 2020.06` Low Redshift Galaxies Star Formation Efficiency, Young Researcher Grant (top class) of National Astronomical Observatories, Chinese Academy of Sciences, 50 000 rmb (~ 7000 US dollars), PI: Cheng Cheng
 
-`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollar), PI: Jiasheng Huang; main participant: Cheng Cheng	
+`2020.01 - 2024.12` Next Generation Wide-Field Deep Optical and U-band Survey, National Natural Science Foundation of China, No. 11933003, 3 600 000 rmb (~ 500 000 US dollars), PI: Jiasheng Huang; main participant: Cheng Cheng	
 
-`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollar), PI: Nanyao Lu; main participant: Cheng Cheng	
+`2017.01 - 2020.12` ALMA Spectral Line Imaging in Submillimeter: Novel Ways to Better Characterize Star Formation in Galaxies Near and Far, National Natural Science Foundation of China, No. 11673028, 670 000 rmb  (~ 90 000 US dollars), PI: Nanyao Lu; main participant: Cheng Cheng	
 <!--- ALMA亚毫米分子和原子谱线成像观测:近邻、遥远星系中的恒星形成区探测和恒星形成率定量的全新方法-->
 
 `2017/07-2022/06` 参加国家重点研发计划 恒星形成与星际介质研究 课题四：星际介质、恒星形成率和恒星形成定律，PI: Yu Gao
