@@ -28,7 +28,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 ## Education
 
-`2021---` 
+`2021---    ` 
 Associate professor
 
 `2018---2020` 
