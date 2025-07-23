@@ -22,17 +22,16 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 ### Research interests
 
 - Low mass galaxies
-- Star formation efficiency
+- High-z dusty galaxies
 - Multi-wavelength photometry
-- [NII] in high-z galaxies
 
-## Education
+## Professional Experience
 
-`2021---    ` 
+`2021--- 2028` 
 Associate professor
 
 `2018---2020` 
-Assistant professor (3 years contract)
+Assistant professor
 
 Chinese Academy of Science South America Center for Astronomy, National Astronomical Observatories, CAS, Beijing, China
 
@@ -46,6 +45,8 @@ Postdoctoral Researcher
 
 National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China. Supervisor: Jiasheng Huang
 
+## Education
+
 `2008---2013` Ph.D in Astrophysics
 
 Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China. Thesis: *Clumpy accretion onto black holes* Supervisor: Jian-Min Wang
@@ -54,7 +55,6 @@ Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China. T
 Bachelor degree in Theoretical physics
 
 University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei Yuan
-
 
 ## Awards
 
@@ -159,44 +159,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 ## Publications
 
-- **Cheng, Cheng**; Huang, Jia-Sheng; Willmer, Christopher N. A.; Zhang, Hong-Xin; Ashby, Matthew L. N.; Xu, Hai; Sawicki, Marcin; Arnouts, Stephane; Gwyn, Stephen; Desprez, Guilllaume; Coupon, Jean; Golob, Anneya; Liang, Piaoran; Cao, Tianwen; Shi, Yaru; Jin, Gaoxiang; He, Chuan; Wu, Shumei; Li, Zijian; Dai, Y. Sophia; Xu, C. Kevin; Shao, Xu; Musin, Marat, *Searching for Low-redshift Faint Galaxies with MMT/Hectospec*, 2021, ApJS, 256, 4
+[https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg](https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg)
 
-- **Cheng, Cheng**; Du, Wei; Xu, Cong Kevin; Cao, Tian-Wen; Zhang, Hong-Xin; Huang, Jia-Sheng; He, Chuan; Li, Zi-Jian; Wu, Shu-Mei; Xu, Hai; Dai, Y. Sophia; Shao, Xu; Musin, Marat, *FUV and NIR size of the HI selected low surface brightness galaxies*, 2021, RAA, 21, 76
-
-- **Cheng, Cheng**; Ibar, Edo; Smail, Ian; Molina, Juan; Sobral, David; Escala, Andrés; Best, Philip; Cochrane, Rachel; Gillman, Steven; Swinbank, Mark; Ivison, R. J.; Huang, Jia-Sheng; Hughes, Thomas M.; Villard, Eric; Cirasuolo, Michele, *A kpc-scale-resolved study of unobscured and obscured star formation activity in normal galaxies at z = 1.5 and 2.2 from ALMA and HiZELS*, 2020, MNRAS, 499, 5241C
-
-- Xu, Hai; Dai, Y. Sophia; Huang, Jia-Sheng; Wang, Zhaoyu; **Cheng, Cheng**; Shao, Xu; Wu, Shumei; Yang, Xiaohu; Jing, Yipeng; Sawicki, Marcin; Liu, Feng-Yuan, *A Large Massive Quiescent Galaxy Sample at z~1.2*, 2020, ApJ, 905, 103X.
-
-- Juan Molina, Edo Ibar, Nicolás Godoy, Andrés Escala, Tomonari Michiyama, **Cheng Cheng**, Thomas M. Hughes, Maarten Baes, Yongquan Xue, Michał J. Michałowski, Paul van der Werf, Xue-Jian Jiang, *VALES VII: Molecular and ionized gas properties in pressure balanced interstellar medium of starburst galaxies at z ∼ 0.15*, 2020, A&A, 643, 78
-
-- **Cheng, Cheng**; Du, Wei; Xu, Cong Kevin; Cao, Tianwen; Zhang, Hong-Xin; Huang, Jia-Sheng; He, Chuan; Li, Zijian; Wu, Shumei; Xu, Hai; Dai, Y. Sophia; Shao, Xu; Musin, Marat, *UV and NIR size of the HI selected low surface brightness galaxies* 2020arXiv201100688C, RAA accepted.
-
-- Xiang, Fei; **Cheng, Cheng** *Disk evolution of the m87's nucleus observed in 2008*, 2020, RAA, 20, 101.
-
-- **Cheng Cheng**; Cao, Xiaoyue; Lu, Nanyao; Li, Ran; Yang, Chentao; Rigopoulou, Dimitra; Charmandaris, Vassilis; Gao, Yu; Xu, Cong Kevin; van der Werf, Paul; Diaz Santos, Tanio; Privon, George C.; Zhao, Yinghe; Cao, Tianwen; Dai, Y. Sophia; Huang, Jia-Sheng; Sanders, David; Wang, Chunxiang; Wang, Zhong; Zhu, Lei, *ALMA [NII] 205μm Imaging Spectroscopy of the brightest Submillimeter galaxy ID141 at redshift 4.24* 2020, ApJ, 898, 33
-
-- **Cheng Cheng**; Ibar, Edo; Du, Wei; Molina, Juan; Orellana-Gonzáles, Gustavo; Zhang, Bo; Zhu, Ming; Xu, Cong Kevin; Wu, Shumei; Cao, Tianwen; Huang, Jia-Sheng; Leiton, Roger; Hughes, Thomas M.; He, Chuan; Li, Zijian; Xu, Hai; Dai, Y. Sophia; Shao, Xu; Musin, Marat, *The atomic gas of star-forming galaxies at z∼0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope* 2020, A&A, 638L, 14C
-
-- Orellana-González, G.; Ibar, E.; Leiton, R.; Thomson, A. P.; **Cheng, Cheng**; Ivison, R. J.; Herrera- Camus, R.; Messias, H.; Calderón-Castillo, P.; Hughes, T. M.; Leeuw, L., *The evolution of the molecular gas mass density of the Universe from an empirical relation between LIR and LCO*, 2020, MNRAS, 495, 1760
-
-- Wei Du, **Cheng Cheng**, Zheng Zheng, Hong Wu *Stellar Mass and stellar Mass-to-light ratio - Color relations for Low Surface Brightness Galaxies*, 2020, AJ, 159 138
-
-- **Cheng Cheng**, Cong Kevin Xu, Lizhi Xie, Zhizheng Pan, Wei Du, Gustavo Orellana-González, Xu Shao, Shumei Wu, Roger Leiton, Jia-Sheng Huang, Sophia Yu Dai, Paulina Assmann, Nicole Araneda *UV and NIR size of the low-mass field galaxies: the UV compact galaxies*, 2020, A&A, 633, A105
-
-- Wei Du, **Cheng Cheng**, Hong Wu, Ming Zhu and Yougang Wang *Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation*, 2019, MNRAS, 483, 1754
-
-- Molina, J.; Ibar, Edo; Villanueva, V.; Escala, A.; **Cheng, Cheng** et al. *VALES V: A kinematic analysis of the molecular gas content in H-ATLAS galaxies at z ~ 0.03 - 0.35 using ALMA*, 2019, MNRAS, 482, 1499.
-
-- Lu, Nanyao; Cao, Tianwen; Díaz-Santos, Tanio; Zhao, Yinghe; Privon, George C.; **Cheng, Cheng**; Gao, Yu; Xu, C. Kevin; Charmandaris, Vassilis; Rigopoulou, Dimitra; van der Werf, Paul P.; Huang, Jiasheng; Wang, Zhong; Evans, Aaron S.; Sanders, David B. *CO (7‑6), [C I] 370 um, and [N II] 205 um Line Emission of the QSO BRI 1335-0417 at Redshift 4.407*, 2018, ApJ, 864, 38L
-
-- **Cheng Cheng**; E. Ibar; T. M. Hughes; V. Villanueva; R. Leiton; G. Orellana; A. Munoz-Arancibia; N. Lu; C. K. Xu; T. Cao; J. Huang; C. Willmer; C. Yang; Y. Xue; and K. Torstensson *VALES: IV. Exploring the transition of star formation efficiencies in normal and starburst galaxies using APEX/SEPIA and ALMA at low redshift*, 2018, MNRAS, 475, 248C
-
-- Liu, Jiren; Liu, Yuan; Li, Xiaobo; Xu, Weiwei; Gou, Lijun; **Cheng, Cheng** *Clumpy tori around type II active galactic nuclei as revealed by X-ray fluorescent lines*, 2016, MNRAS, 459L, 100L
-
-- Du, Pu; Hu, Chen; Lu, Kai-Xing; Huang, Ying-Ke; **Cheng, Cheng**; et al. *Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IV.  Hbeta Time Lags and Implications for Super-Eddington Accretion*, 2015, ApJ, 806, 22
-
-- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Alignments Of Black Holes with Their Warped Accretion Disks and Episodic Lifetimes of Active Galactic Nuclei*, 2015, ApJ, 804, 45L
-
-- Li, Yan-Rong; Wang, Jian-Min; **Cheng, Cheng**; Qiu, Jie *Evolution of Warped Accretion Disks in Active Galactic Nuclei. I. Roles of Feeding at the Outer Boundaries*, 2013, ApJ, 764, 16
 
 - Wang, Jian-Min; **Cheng, Cheng**, Li, Yan-Rong *Clumpy Accretion onto Black Holes. I. Clumpy-advection-dominated Accretion Flow Structure and Radiation*, 2012, ApJ, 748, 147
