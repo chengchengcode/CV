@@ -1,4 +1,4 @@
----
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/da51873e-5812-423e-827b-5d297ccd6fc6" />---
 layout: kjhealy
 title: Cheng Cheng's CV
 ---
@@ -81,7 +81,19 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 `2017/07-2022/06` 参加国家重点研发计划 恒星形成与星际介质研究 课题四：星际介质、恒星形成率和恒星形成定律，PI: Yu Gao
 
-## Observational proposals as PI:
+## Observation proposals as PI:
+
+- 2025, 14 hours, GMRT. Cold Gas Dynamics in X-ray Bright Galaxy Group RX J0751.3+5012: HI Mapping with GMRT Band-5
+
+- 2025, 15.89 hours, VLA. Resolving Starless H I Clouds in the CGM of Massive Galaxies	
+
+- 2024, 24.8 hours, FAST. Mapping the diffuse HI distribution in the Circumgalactic Medium of NGC4565
+
+- 2024, 21.767 hours, FAST. Deep Mapping of Diffuse HI in Intragroup Medium of Stephan's Quintet
+
+- 2023, 23 hours, FAST. Ultra Deep FAST mapping: where is the atomic gas in the HI-deficient compact groups
+
+- 2022B, 1.3 hours, NTT. Unveiling the nature of CL AGN
 
 - 2022A, 7 hours, Gemini-North/GMOS. A pilot survey of low mass quiescent field galaxies at z ~ 0.15: measuring their chemical evolution and kinematics
 
@@ -115,7 +127,7 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - TAP2016B, 2017A, 2017B, 6.5 nights, MMT/Hectospec. Local faint galaxy spectroscopic survey
 
-## Selected observational proposals as co-I:
+## Selected observation proposals as co-I:
 
 - GTC/MEGARA, 2021B, 5 hours. Testing ISM self-regulated models through the observation of starburst galaxies lying in the star-formation efficiency transition zone (PI: Juan Molina)
 
