@@ -21,7 +21,7 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 - Low mass galaxies
 - High-z dusty galaxies
-- Multi-wavelength photometry
+- Narrowband image of local galaxies
 
 ## Professional Experience
 
