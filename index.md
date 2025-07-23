@@ -1,4 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/da51873e-5812-423e-827b-5d297ccd6fc6" />---
 layout: kjhealy
 title: Cheng Cheng's CV
 ---
