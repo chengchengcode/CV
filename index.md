@@ -28,8 +28,8 @@ Chinese Academy of Science South America Center for Astronomy, National Astronom
 
 ## Education
 
-`2021---2023` 
-Assistant professor (3 years contract)
+`2021---` 
+Associate professor
 
 `2018---2020` 
 Assistant professor (3 years contract)
