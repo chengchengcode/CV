@@ -160,6 +160,3 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 ## Publications
 
 [https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg](https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg)
-
-
-- Wang, Jian-Min; **Cheng, Cheng**, Li, Yan-Rong *Clumpy Accretion onto Black Holes. I. Clumpy-advection-dominated Accretion Flow Structure and Radiation*, 2012, ApJ, 748, 147
