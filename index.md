@@ -139,6 +139,9 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 
 - Lijiang 2.4m telescope, 112 half nights. AGN reverberation mapping. 2014. Feb. - Jun. (PI: Jian-Min Wang)
 
+## Publications
+
+[https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg](https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg)
 
 ## Academic Service
 
@@ -156,7 +159,3 @@ University of Science and Technology of China, Hefei, China. Supervisor: Ye-Fei 
 - Chinanews: [中国“天眼”首次探测到河外星系中性氢发射线 或助暗物质研究](http://www.chinanews.com/gn/2020/07-02/9227336.shtml)
 
 - AAAS Eurekalert: [FAST detects neutral hydrogen emission from extragalactic galaxies for the first time](https://www.eurekalert.org/pub_releases/2020-07/caos-fdn070120.php)
-
-## Publications
-
-[https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg](https://ui.adsabs.harvard.edu/public-libraries/LCM5jrkgSFWgqCl1DnLoMg)
